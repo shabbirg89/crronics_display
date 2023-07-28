@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crronics_display/static/css/main.b8833fb6.css",
+    "main.js": "/crronics_display/static/js/main.e4eb283a.js",
+    "static/js/787.ceda7567.chunk.js": "/crronics_display/static/js/787.ceda7567.chunk.js",
+    "index.html": "/crronics_display/index.html",
+    "main.b8833fb6.css.map": "/crronics_display/static/css/main.b8833fb6.css.map",
+    "main.e4eb283a.js.map": "/crronics_display/static/js/main.e4eb283a.js.map",
+    "787.ceda7567.chunk.js.map": "/crronics_display/static/js/787.ceda7567.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8833fb6.css",
+    "static/js/main.e4eb283a.js"
+  ]
+}
